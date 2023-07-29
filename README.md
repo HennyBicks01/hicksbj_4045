@@ -1,6 +1,9 @@
 # Individual assignment
 This project is my Spring Boot application that aims to create a simple home page accessible through a web browser. It utilizes Eclipse as the integrated development environment (IDE) for coding and testing. The home page is mapped to the "/index" endpoint and contains well-formatted HTML markup adhering to the XHTML Strict standard. The Spring Boot annotations are correctly implemented throughout the project to ensure the application functions as intended. Once the project is successfully built, users can run it using the Run or Debug option, and the browser should display the home page, identical to the provided screenshot. Finally, the completed project is committed and pushed to a GitHub repository named after my Bearcat ID, ensuring it is safely stored and shareable.
 
+## Video Demonstration
+
+
 ## Rubric
 - [x] Virtual Machine is activated.
 
