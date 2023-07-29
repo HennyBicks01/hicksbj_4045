@@ -1,5 +1,5 @@
 # Individual assignment
-Springboot Project
+This project is a Spring Boot application that aims to create a simple home page accessible through a web browser. It utilizes Eclipse as the integrated development environment (IDE) for coding and testing. The home page is mapped to the "/index" endpoint and contains well-formatted HTML markup adhering to the XHTML Strict standard. The Spring Boot annotations are correctly implemented throughout the project to ensure the application functions as intended. Once the project is successfully built, users can run it using the Run or Debug option, and the browser should display the home page, identical to the provided screenshot. Finally, the completed project is committed and pushed to a GitHub repository named after my Bearcat ID, ensuring it is safely stored and shareable.
 
 ## Rubric
 - [ ] Virtual Machine is activated. __ /10
@@ -36,6 +36,8 @@ start page:
 ![Rubric06_start](photos/Rubric06_start.png)
 
 - [ ] All proper Spring Boot annotations are present __ /10
+
+*decided to use a picture of my controller class since it gives a good amount of annotation that wasn't necessarily present in other screenshots*
 
 ![Rubric07](photos/Rubric07.png)
 
