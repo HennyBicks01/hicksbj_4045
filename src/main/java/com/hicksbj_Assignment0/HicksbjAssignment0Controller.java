@@ -74,6 +74,6 @@ public class HicksbjAssignment0Controller {
 	*/
 	@RequestMapping("/")
 	public String index() {
-		return "start";
+		return "index";
 	}
 }
