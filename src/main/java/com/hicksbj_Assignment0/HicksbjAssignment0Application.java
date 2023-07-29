@@ -1,4 +1,4 @@
-package com.hicksbj_Assignment0.hicksbj_Assignment0;
+package com.hicksbj_Assignment0;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
